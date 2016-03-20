@@ -1,0 +1,14 @@
+{
+  "name": "hapi-test",
+  "version": "0.0.1",
+  "description": "A test project to familarize myself to Hapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.2.1"
+  }
+}
